@@ -6,8 +6,8 @@
 - `pip3 install flask`
 - `pip3 install gunicorn`
 
-别问为什么没有`requirements.txt`，~~ee懒~~（被打
-等等……好像还有一些库没写进来……
+别问为什么没有`requirements.txt`，~~ee懒~~（被打  
+等等……好像还有一些库没写进来……  
 总之试着运行，看看缺什么补什么（逃
 
 ### 开始运行
